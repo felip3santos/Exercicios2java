@@ -1,11 +1,11 @@
-//- QUESTÃO 01: 
+/*- QUESTÃO 01: 
 
 package paulo;
 
 public class Paulo {
 
     public static void main(String[] args) {
-        int[] numeros = new int[5];
+        int[] numeros = new int[5];*/
 
         numeros[0] = 10;
         numeros[1] = 20;
