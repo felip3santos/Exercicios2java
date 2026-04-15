@@ -1,11 +1,13 @@
-/*- QUESTÃO 01: 
+/*- QUESTÃO 01: CRIAR E EXIBIR VETOR
+Crie um vetor de 5 números inteiros, atribua valores e mostre todos os elementos.*/
+ 
 
 package paulo;
 
 public class Paulo {
 
     public static void main(String[] args) {
-        int[] numeros = new int[5];*/
+        int[] numeros = new int[5];
 
         numeros[0] = 10;
         numeros[1] = 20;
@@ -20,7 +22,9 @@ public class Paulo {
     }
 }
 
-//- QUESTÃO 02:
+/*- QUESTÃO 02: SOMA DOS ELEMENTOS
+Crie um vetor com 6 números inteiros e mostre a soma de todos os elementos.*/
+
 
 package paulo;
 
@@ -45,7 +49,8 @@ public class Paulo {
     }
 }
 
-//- QUESTÃO 03:
+/*- QUESTÃO 03: MAIOR VALOR DO VETOR
+Crie um vetor com 8 números inteiros e mostre o maior valor.*/
 
 package paulo;
 
@@ -65,7 +70,8 @@ public class Paulo {
     }
 }
 
-//- QUESTÃO 04:
+/*- QUESTÃO 04: MENOR VALOR DO VETOR
+Crie um vetor com 8 números inteiros e mostre o menor valor.*/
 
 package paulo;
 
@@ -85,7 +91,8 @@ public class Paulo {
     }
 }
 
-//- QUESTÃO 05:
+/*- QUESTÃO 05: MÉDIA DOS VALORES
+Crie um vetor com 5 notas, calcule e mostre a média.*/
 
 package paulo;
 
@@ -104,7 +111,8 @@ public class Paulo {
     }
 }
 
-//- QUESTÃO 06:
+/*- QUESTÃO 06: CONTAR NÚMEROS PARES
+Crie um vetor com 10 números e mostre quantos são pares.*/
 
 package paulo;
 
@@ -122,7 +130,8 @@ public class Paulo {
     }
 }
 
-//- QUESTÃO 07:
+/*- QUESTÃO 07: MOSTRAR POSIÇÕES
+Crie um vetor com 5 nomes e mostre nome + posição.*/
 
 package paulo;
 
@@ -136,7 +145,8 @@ public class Paulo {
     }
 }
 
-//- QUESTÃO 08:
+/*- QUESTÃO 08: BUSCAR UM VALOR
+Crie um vetor com 7 números e verifique se um valor está presente.*/
 
 package nick;
 import java.util.Scanner;
@@ -169,7 +179,9 @@ public class Nick {
     }
 }
 
-//- QUESTÃO 09:
+/*- QUESTÃO 09: EXIBIR STRING
+Crie uma String com seu nome e mostre:
+"Meu nome é ..."*/
 
 package nick;
 public class Nick {
@@ -180,7 +192,8 @@ public class Nick {
     }
 }
 
-//- QUESTÃO 10:
+/*- QUESTÃO 10: TAMANHO DA STRING
+Mostre a quantidade de caracteres de uma String.*/
 
 package nick;
 public class Nick {
@@ -191,7 +204,8 @@ public class Nick {
     }
 }
 
-//- QUESTÃO 11:
+/*- QUESTÃO 11: MAIÚSCULO
+Mostre uma String em letras maiúsculas.*/
 
 package nick;
 public class Nick {
@@ -202,7 +216,8 @@ public class Nick {
     }
 }
 
-//- QUESTÃO 12:
+/*- QUESTÃO 12: MINÚSCULO
+Mostre uma String em letras minúsculas.*/
 
 package nick;
 public class Nick {
@@ -213,7 +228,8 @@ public class Nick {
     }
 }
 
-//- QUESTÃO 13:
+/*- QUESTÃO 13: VERIFICAR PALAVRA
+Verifique se uma frase contém determinada palavra.*/
 
 package nick;
 public class Nick {
@@ -224,7 +240,8 @@ public class Nick {
     }
 }
 
-//- QUESTÃO 14:
+/*- QUESTÃO 14: COMPARAR STRINGS
+Compare duas Strings e informe se são iguais.*/
 
 package nick;
 public class Nick {
@@ -236,7 +253,8 @@ public class Nick {
     }
 }
 
-//- QUESTÃO 15:
+/*- QUESTÃO 15: PRIMEIRO E ÚLTIMO CARACTERE
+Mostre o primeiro e o último caractere de uma String.*/
 
 package nick;
 public class Nick {
@@ -248,7 +266,8 @@ public class Nick {
     }
 }
 
-//- QUESTÃO 16:
+/*- QUESTÃO 16: CONTAR VOGAIS
+Conte quantas vogais existem em uma palavra.*/
 
 package ronaldo;
 import java.util.Scanner;
@@ -276,7 +295,8 @@ public class Ronaldo {
     }
 }
 
-//- QUESTÃO 17:
+/*- QUESTÃO 17: MATRIZ 2x2
+Crie uma matriz 2x2 e mostre os valores.*/
 
 package ronaldo;
 
@@ -299,7 +319,8 @@ public class Ronaldo {
     }
 }
 
-//- QUESTÃO 18:
+/*- QUESTÃO 18: SOMA DA MATRIZ
+Crie uma matriz 3x3 e mostre a soma dos elementos.*/
 
 package ronaldo;
 
@@ -324,7 +345,8 @@ public class Ronaldo {
     }
 }
 
-//- QUESTÃO 19:
+/*- QUESTÃO 19: DIAGONAL PRINCIPAL
+Mostre os elementos da diagonal principal de uma matriz 3x3.*/
 
 package ronaldo;
 
@@ -346,7 +368,8 @@ public class Ronaldo {
 }
 
 
-//- QUESTÃO 20:
+/*- QUESTÃO 20: CONTAR PARES NA MATRIZ
+Mostre quantos números pares existem em uma matriz 3x3.*/
 
 package ronaldo;
 
@@ -373,7 +396,7 @@ public class Ronaldo {
     }
 }
 
-//- A):
+/*- A): Vetor de nomes: mostrar apenas nomes com mais de 5 letras.*/
 
 package ronaldo;
 
@@ -392,7 +415,7 @@ public class Ronaldo {
     }
 }
 
-//- B):
+/*- B): Matriz 3x3: mostrar o maior valor.*/
 
 package ronaldo;
 
@@ -419,7 +442,7 @@ public class Ronaldo {
     }
 }
 
-//- C):
+/*- C): String: contar quantas vezes a letra 'a' aparece.*/
 
  package ronaldo;
 
